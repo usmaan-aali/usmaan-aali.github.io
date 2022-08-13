@@ -1,0 +1,26 @@
+title:              Usman Ali
+email:              usman_a_shah@outlook.com
+description:        Welcome to my data world
+author:             Usman Ali
+baseurl:            ""
+url:                "https://usmaanaali.github.io"
+
+# Social Profiles
+twitter_username:   
+github_username:    usmaan-aali
+facebook_username:  
+instagram_username:  
+linkedin_username: usmaan-aali
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+highlighter: rouge
