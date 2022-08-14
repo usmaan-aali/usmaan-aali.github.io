@@ -1,7 +1,0 @@
-I"G<h1 id="etl">ETL</h1>
-<h3 id="load-libraries">load libraries</h3>
-<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">library</span><span class="p">(</span><span class="n">tidyverse</span><span class="p">)</span><span class="w">
-</span><span class="n">library</span><span class="p">(</span><span class="n">stringi</span><span class="p">)</span><span class="w">
-</span><span class="n">library</span><span class="p">(</span><span class="n">readxl</span><span class="p">)</span><span class="w">
-</span></code></pre></div></div>
-:ET
